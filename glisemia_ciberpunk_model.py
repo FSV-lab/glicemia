@@ -18,7 +18,7 @@ mplcyberpunk.make_lines_glow(ax)
 mplcyberpunk.add_gradient_fill(alpha_gradientglow=0.6)
 
 # Agregar etiquetas y título
-ax.set_title('Datos Semanales Glisemia')
+ax.set_title('Datos Semanales Glicemia')
 ax.set_xlabel('Días de la Semana')
 ax.set_ylabel('Glucosa')
 
