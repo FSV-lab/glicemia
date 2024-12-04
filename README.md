@@ -1,0 +1,2 @@
+# glicemia
+gráficos en python
